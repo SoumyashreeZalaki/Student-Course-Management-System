@@ -16,4 +16,5 @@ The project includes admin-controlled course management using JDBC and SQL.
 - MySQL
 - OOPs principles
 
-> Project under development – source code coming soon.
+> This project is part of my hands-on learning in backend Java development.
+
